@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ConstraintLayoutサンプル</string>
+    <string name="tv_title">必要な情報を入力してください</string>
+    <string name="tv_home">住まい</string>
+    <string name="tv_name">お名前</string>
+    <string name="bt_click">表示</string>
+    <string name="bt_nameClear">お名前クリア</string>
+    <string name="bt_homeClear">お住まいクリア</string>
+</resources>
